@@ -1,0 +1,1 @@
+# Implementing-the-Certainty-Factor-Method-in-a-Dental-Disease-Expert-System
